@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCWeb", "ASCWeb\ASCWeb.csproj", "{1490CE01-965E-4268-B854-B0DC2A70BE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1490CE01-965E-4268-B854-B0DC2A70BE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1490CE01-965E-4268-B854-B0DC2A70BE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1490CE01-965E-4268-B854-B0DC2A70BE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1490CE01-965E-4268-B854-B0DC2A70BE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0460B2B5-F081-4A96-A422-7DE51171E708}
+	EndGlobalSection
+EndGlobal
