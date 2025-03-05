@@ -309,4 +309,12 @@ E:\visual studio window code\HK2N3\ASCWeb\obj\Debug\net8.0\refint\ASCWeb.dll
 E:\visual studio window code\HK2N3\ASCWeb\obj\Debug\net8.0\ASCWeb.pdb
 E:\visual studio window code\HK2N3\ASCWeb\obj\Debug\net8.0\ASCWeb.genruntimeconfig.cache
 E:\visual studio window code\HK2N3\ASCWeb\obj\Debug\net8.0\ref\ASCWeb.dll
-E:\visual studio window code\HK2N3\ASCWeb\obj\Debug\net8.0\ASCWeb.sourcelink.json
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Utilities.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Business.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.DataAccess.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Model.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Business.pdb
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.DataAccess.pdb
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Model.pdb

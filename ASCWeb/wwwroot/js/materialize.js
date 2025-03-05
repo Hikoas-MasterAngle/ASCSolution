@@ -23,6 +23,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       slice = ArrayProto.slice,
       filter = ArrayProto.filter,
       push = ArrayProto.push;
+    //collapse
+    document.addEventListener('DOMContentLoaded', function () {
+        var elems = document.querySelectorAll('.collapsible');
+        var instances = M.Collapsible.init(elems, options);
+    });
 
   var noop = function () {},
       isFunction = function (item) {
