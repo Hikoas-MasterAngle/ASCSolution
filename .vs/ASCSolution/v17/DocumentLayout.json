@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "E:\\visual studio window code\\HK2N3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\migrations\\20250305154156_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\migrations\\20250305154156_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|e:\\visual studio window code\\hk2n3\\asc.model\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|e:\\visual studio window code\\hk2n3\\asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +27,40 @@
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\migrations\\20250306070406_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\migrations\\20250306070406_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\migrations\\20250306063901_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\migrations\\20250306063901_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\visual studio window code\\hk2n3\\asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,6 +73,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\visual studio window code\\hk2n3\\asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\visual studio window code\\hk2n3\\asc.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|e:\\visual studio window code\\hk2n3\\asc.model\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|e:\\visual studio window code\\hk2n3\\asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3339CA8A-4ACE-4E28-9311-6E96A85A4D1B}|ASC.Model\\ASC.Model.csproj|e:\\visual studio window code\\hk2n3\\asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -149,18 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\wwwroot\\images\\background2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\wwwroot\\images\\background2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -190,24 +202,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ASCWeb\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:37:46.522Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -217,46 +216,20 @@
               "RelativeDocumentMoniker": "ASCWeb\\appsettings.json",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.json",
               "RelativeToolTip": "ASCWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-05T15:22:43.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "ASCWeb\\appsettings.Production.json",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Production.json",
-              "RelativeToolTip": "ASCWeb\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T08:16:48.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ASCWeb\\appsettings.Development.json",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Development.json",
-              "RelativeToolTip": "ASCWeb\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T15:47:56.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Program.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Program.cs",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Program.cs",
               "RelativeToolTip": "ASCWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T07:44:26.494Z",
               "EditorCaption": ""
@@ -264,71 +237,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20250305154156_InitialCreate.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\Migrations\\20250305154156_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Data\\Migrations\\20250305154156_InitialCreate.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\Migrations\\20250305154156_InitialCreate.cs",
-              "RelativeToolTip": "ASCWeb\\Data\\Migrations\\20250305154156_InitialCreate.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:41:57.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "ASCWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:39:00.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Books.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Books.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\Models\\Books.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Books.cs",
-              "RelativeToolTip": "ASC.Model\\Models\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:13:38.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\Models\\Product.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Product.cs",
-              "RelativeToolTip": "ASC.Model\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:16:09.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ASCWeb\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:29:51.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ApplicationSettings.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Configuration\\ApplicationSettings.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Configuration\\ApplicationSettings.cs",
@@ -341,33 +249,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASCWeb\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:29:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IdentitySeed.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IdentitySeed.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Data\\IdentitySeed.cs",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IdentitySeed.cs",
               "RelativeToolTip": "ASCWeb\\Data\\IdentitySeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T15:34:25.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IIdentitySeed.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IIdentitySeed.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Data\\IIdentitySeed.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IIdentitySeed.cs",
-              "RelativeToolTip": "ASCWeb\\Data\\IIdentitySeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:33:25.768Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASCWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T06:39:32.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250306070406_IntialCreate.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
+              "RelativeToolTip": "ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:04:08.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASCWeb\\appsettings.Development.json",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Development.json",
+              "RelativeToolTip": "ASCWeb\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T15:47:56.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASCWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASCWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:02:37.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASCWeb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:51:53.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250306063901_InitialCreate.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
+              "RelativeToolTip": "ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAQwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:39:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASCWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:27:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthMessageSender.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\AuthMessageSender.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Services\\AuthMessageSender.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\AuthMessageSender.cs",
+              "RelativeToolTip": "ASCWeb\\Services\\AuthMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:45:38.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASCWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASCWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:48:28.705Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Services\\IEmailSender.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASCWeb\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:45:49.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
@@ -375,25 +406,23 @@
               "RelativeToolTip": "ASC.DataAccess\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:21:15.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:21:15.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Repository.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Repository.cs",
               "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:19:47.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:19:47.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
@@ -401,12 +430,71 @@
               "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:18:40.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:18:40.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Data\\IIdentitySeed.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASCWeb\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:33:25.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:05:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ASCWeb\\appsettings.Production.json",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Production.json",
+              "RelativeToolTip": "ASCWeb\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T08:16:48.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Books.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\Books.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Books.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:13:38.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\Product.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Product.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:16:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "MasterDataValue.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\MasterDataValue.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
@@ -414,12 +502,11 @@
               "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:14:17.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:14:17.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
@@ -427,12 +514,11 @@
               "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:16:49.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:16:49.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "MasterDataKey.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\MasterDataKey.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
@@ -440,12 +526,11 @@
               "RelativeToolTip": "ASC.Model\\Models\\MasterDataKey.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:13:57.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:13:57.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "IAuditTracker.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\BaseType\\IAuditTracker.cs",
               "RelativeDocumentMoniker": "ASC.Model\\BaseType\\IAuditTracker.cs",
@@ -453,12 +538,11 @@
               "RelativeToolTip": "ASC.Model\\BaseType\\IAuditTracker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:13:20.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:13:20.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Contants.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\BaseType\\Contants.cs",
               "RelativeDocumentMoniker": "ASC.Model\\BaseType\\Contants.cs",
@@ -466,12 +550,11 @@
               "RelativeToolTip": "ASC.Model\\BaseType\\Contants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:12:45.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:12:45.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\BaseType\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ASC.Model\\BaseType\\BaseEntity.cs",
@@ -479,25 +562,23 @@
               "RelativeToolTip": "ASC.Model\\BaseType\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:11:55.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:11:55.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ASC.Model",
+              "DocumentIndex": 30,
+              "Title": "ASC.Model.csproj",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\ASC.Model.csproj",
               "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Model\\ASC.Model.csproj",
               "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T15:06:43.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:06:43.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Utilities\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Utilities\\Class1.cs",
@@ -505,12 +586,11 @@
               "RelativeToolTip": "ASC.Utilities\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:32:28.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:32:28.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Class1.cs",
@@ -518,12 +598,11 @@
               "RelativeToolTip": "ASC.Model\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:32:05.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:32:05.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\Class1.cs",
@@ -531,12 +610,11 @@
               "RelativeToolTip": "ASC.DataAccess\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:31:47.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:31:47.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Business\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
@@ -544,12 +622,11 @@
               "RelativeToolTip": "ASC.Business\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:31:07.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:31:07.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "init.js",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\init.js",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\js\\init.js",
@@ -557,12 +634,11 @@
               "RelativeToolTip": "ASCWeb\\wwwroot\\js\\init.js",
               "ViewState": "AgIAAAEAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-27T06:01:22.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:01:22.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "materialize.min.js",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\materialize.min.js",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\js\\materialize.min.js",
@@ -570,12 +646,11 @@
               "RelativeToolTip": "ASCWeb\\wwwroot\\js\\materialize.min.js",
               "ViewState": "AgIAAAAAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-27T06:01:08.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:01:08.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "materialize.js",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\materialize.js",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\js\\materialize.js",
@@ -583,12 +658,11 @@
               "RelativeToolTip": "ASCWeb\\wwwroot\\js\\materialize.js",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-27T06:01:05.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:01:05.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "_MasterLayout.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_MasterLayout.cshtml",
@@ -596,25 +670,11 @@
               "RelativeToolTip": "ASCWeb\\Views\\Shared\\_MasterLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T05:59:07.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T05:59:07.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ASCWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAACBjwGIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:39:32.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "_SecureLayout.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_SecureLayout.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_SecureLayout.cshtml",
@@ -622,12 +682,11 @@
               "RelativeToolTip": "ASCWeb\\Views\\Shared\\_SecureLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:39:08.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:39:08.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_Layout.cshtml",
@@ -635,12 +694,11 @@
               "RelativeToolTip": "ASCWeb\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAACBjwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T07:51:58.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:51:58.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_LoginPartial.cshtml",
@@ -648,12 +706,11 @@
               "RelativeToolTip": "ASCWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:39:53.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:39:53.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Dashboard.cshtml",
@@ -661,25 +718,11 @@
               "RelativeToolTip": "ASCWeb\\Views\\Home\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:37:13.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:37:13.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AuthMessageSender.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\AuthMessageSender.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Services\\AuthMessageSender.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\AuthMessageSender.cs",
-              "RelativeToolTip": "ASCWeb\\Services\\AuthMessageSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:45:38.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -687,12 +730,11 @@
               "RelativeToolTip": "ASCWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T14:44:08.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T14:44:08.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Controllers\\HomeController.cs",
@@ -700,12 +742,11 @@
               "RelativeToolTip": "ASCWeb\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:10:46.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:10:46.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "background2.jpg",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\images\\background2.jpg",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\images\\background2.jpg",
@@ -716,32 +757,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ASCWeb",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\ASCWeb.csproj",
               "RelativeDocumentMoniker": "ASCWeb\\ASCWeb.csproj",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\ASCWeb.csproj",
               "RelativeToolTip": "ASCWeb\\ASCWeb.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-20T08:20:09.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:20:09.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IEmailSender.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\IEmailSender.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Services\\IEmailSender.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\IEmailSender.cs",
-              "RelativeToolTip": "ASCWeb\\Services\\IEmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:45:49.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "ISmsSender.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\ISmsSender.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Services\\ISmsSender.cs",
@@ -749,25 +776,11 @@
               "RelativeToolTip": "ASCWeb\\Services\\ISmsSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:45:58.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:45:58.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ASCWeb\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:27:27.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "ASCWeb.csproj",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\ASCWeb.csproj",
               "RelativeDocumentMoniker": "ASCWeb\\ASCWeb.csproj",
@@ -775,8 +788,7 @@
               "RelativeToolTip": "ASCWeb\\ASCWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-20T07:44:24.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:44:24.086Z"
             }
           ]
         }

@@ -29,6 +29,7 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddOptions();//
 builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection("AppSettings"));//
 
+builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
