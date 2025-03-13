@@ -318,3 +318,9 @@ E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Model.dll
 E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Business.pdb
 E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.DataAccess.pdb
 E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\ASC.Model.pdb
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\visual studio window code\HK2N3\ASCWeb\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll

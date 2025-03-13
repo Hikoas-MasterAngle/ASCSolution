@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Model", "ASC.Model\ASC.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Utilities", "ASC.Utilities\ASC.Utilities.csproj", "{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASC.Test", "ASC.Test\ASC.Test.csproj", "{42963831-2460-46A7-97B3-4C9FA03BBA3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42963831-2460-46A7-97B3-4C9FA03BBA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42963831-2460-46A7-97B3-4C9FA03BBA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42963831-2460-46A7-97B3-4C9FA03BBA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42963831-2460-46A7-97B3-4C9FA03BBA3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

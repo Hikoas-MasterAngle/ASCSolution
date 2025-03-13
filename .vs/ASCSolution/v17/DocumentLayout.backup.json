@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "E:\\visual studio window code\\HK2N3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|e:\\visual studio window code\\hk2n3\\asc.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|solutionrelative:asc.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|e:\\visual studio window code\\hk2n3\\asc.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|solutionrelative:asc.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|e:\\visual studio window code\\hk2n3\\asc.test\\testutilities\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|solutionrelative:asc.test\\testutilities\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}|ASC.Utilities\\ASC.Utilities.csproj|e:\\visual studio window code\\hk2n3\\asc.utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}|ASC.Utilities\\ASC.Utilities.csproj|e:\\visual studio window code\\hk2n3\\asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BECCEB0C-124F-419B-B7D8-4D90CE7FB511}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|e:\\visual studio window code\\hk2n3\\asc.test\\asc.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42963831-2460-46A7-97B3-4C9FA03BBA3A}|ASC.Test\\ASC.Test.csproj|solutionrelative:asc.test\\asc.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\visual studio window code\\hk2n3\\asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\visual studio window code\\hk2n3\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\visual studio window code\\hk2n3\\asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBA70A1-0620-4F9A-A863-E30B25586FAF}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,10 +191,6 @@
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|e:\\visual studio window code\\hk2n3\\ascweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1490CE01-965E-4268-B854-B0DC2A70BE7B}|ASCWeb\\ASCWeb.csproj|solutionrelative:ascweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -202,7 +226,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,7 +234,118 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeSession.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Test\\TestUtilities\\FakeSession.cs",
+              "RelativeDocumentMoniker": "ASC.Test\\TestUtilities\\FakeSession.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Test\\TestUtilities\\FakeSession.cs",
+              "RelativeToolTip": "ASC.Test\\TestUtilities\\FakeSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:30:04.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\SessionExtensions.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeToolTip": "ASC.Utilities\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:06:24.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ASC.Test.csproj",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Test\\ASC.Test.csproj",
+              "RelativeDocumentMoniker": "ASC.Test\\ASC.Test.csproj",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Test\\ASC.Test.csproj",
+              "RelativeToolTip": "ASC.Test\\ASC.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T15:25:01.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASCWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:10:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Test\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ASC.Test\\HomeControllerTests.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Test\\HomeControllerTests.cs",
+              "RelativeToolTip": "ASC.Test\\HomeControllerTests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:12:30.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ASC.Test\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Test\\UnitTest1.cs",
+              "RelativeToolTip": "ASC.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:06:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ASC.Utilities.csproj",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeToolTip": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T16:34:11.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ASCWeb\\Program.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Program.cs",
+              "RelativeToolTip": "ASCWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:44:26.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASCWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T06:39:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.json",
               "RelativeDocumentMoniker": "ASCWeb\\appsettings.json",
@@ -218,25 +353,23 @@
               "RelativeToolTip": "ASCWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T15:22:43.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:22:43.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Program.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Program.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Program.cs",
-              "RelativeToolTip": "ASCWeb\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:44:26.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:18:40.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "ApplicationSettings.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Configuration\\ApplicationSettings.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Configuration\\ApplicationSettings.cs",
@@ -244,12 +377,11 @@
               "RelativeToolTip": "ASCWeb\\Configuration\\ApplicationSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:57:57.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:57:57.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Data\\ApplicationDbContext.cs",
@@ -257,12 +389,11 @@
               "RelativeToolTip": "ASCWeb\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:29:51.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:29:51.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "IdentitySeed.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IdentitySeed.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Data\\IdentitySeed.cs",
@@ -270,38 +401,23 @@
               "RelativeToolTip": "ASCWeb\\Data\\IdentitySeed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:34:25.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:34:25.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ASCWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAowGIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:39:32.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "20250306070406_IntialCreate.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
               "RelativeToolTip": "ASCWeb\\Migrations\\20250306070406_IntialCreate.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:04:08.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:04:08.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ASCWeb\\appsettings.Development.json",
@@ -313,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\_ViewImports.cshtml",
@@ -325,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -337,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "20250306063901_InitialCreate.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
@@ -345,12 +461,11 @@
               "RelativeToolTip": "ASCWeb\\Migrations\\20250306063901_InitialCreate.cs",
               "ViewState": "AgIAAPEAAAAAAAAAAAAQwBkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:39:02.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:39:02.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Privacy.cshtml",
@@ -362,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "AuthMessageSender.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\AuthMessageSender.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Services\\AuthMessageSender.cs",
@@ -374,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\_ViewStart.cshtml",
@@ -386,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "IEmailSender.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\IEmailSender.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Services\\IEmailSender.cs",
@@ -398,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
@@ -410,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Repository.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
@@ -422,19 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:18:40.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "IIdentitySeed.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Data\\IIdentitySeed.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Data\\IIdentitySeed.cs",
@@ -446,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
@@ -458,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\appsettings.Production.json",
               "RelativeDocumentMoniker": "ASCWeb\\appsettings.Production.json",
@@ -470,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Books.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Books.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\Books.cs",
@@ -482,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\Product.cs",
@@ -494,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "MasterDataValue.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\MasterDataValue.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
@@ -506,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
@@ -518,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "MasterDataKey.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Models\\MasterDataKey.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
@@ -530,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "IAuditTracker.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\BaseType\\IAuditTracker.cs",
               "RelativeDocumentMoniker": "ASC.Model\\BaseType\\IAuditTracker.cs",
@@ -542,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "Contants.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\BaseType\\Contants.cs",
               "RelativeDocumentMoniker": "ASC.Model\\BaseType\\Contants.cs",
@@ -554,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\BaseType\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ASC.Model\\BaseType\\BaseEntity.cs",
@@ -566,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "ASC.Model.csproj",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\ASC.Model.csproj",
               "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
@@ -578,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Utilities\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Utilities\\Class1.cs",
@@ -590,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Model\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Class1.cs",
@@ -602,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess\\Class1.cs",
@@ -614,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASC.Business\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
@@ -626,19 +729,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "init.js",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\init.js",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\js\\init.js",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\init.js",
               "RelativeToolTip": "ASCWeb\\wwwroot\\js\\init.js",
-              "ViewState": "AgIAAAEAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-27T06:01:22.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "materialize.min.js",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\materialize.min.js",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\js\\materialize.min.js",
@@ -650,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "materialize.js",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\js\\materialize.js",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\js\\materialize.js",
@@ -662,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "_MasterLayout.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_MasterLayout.cshtml",
@@ -674,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "_SecureLayout.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_SecureLayout.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_SecureLayout.cshtml",
@@ -686,19 +789,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ASCWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAACBjwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAOBvwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-20T07:51:58.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Shared\\_LoginPartial.cshtml",
@@ -710,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Views\\Home\\Dashboard.cshtml",
@@ -722,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASCWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -734,19 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ASCWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ASCWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:10:46.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "background2.jpg",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\wwwroot\\images\\background2.jpg",
               "RelativeDocumentMoniker": "ASCWeb\\wwwroot\\images\\background2.jpg",
@@ -757,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "ASCWeb",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\ASCWeb.csproj",
               "RelativeDocumentMoniker": "ASCWeb\\ASCWeb.csproj",
@@ -768,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "ISmsSender.cs",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\Services\\ISmsSender.cs",
               "RelativeDocumentMoniker": "ASCWeb\\Services\\ISmsSender.cs",
@@ -780,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "ASCWeb.csproj",
               "DocumentMoniker": "E:\\visual studio window code\\HK2N3\\ASCWeb\\ASCWeb.csproj",
               "RelativeDocumentMoniker": "ASCWeb\\ASCWeb.csproj",
